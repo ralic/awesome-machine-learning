@@ -20,6 +20,8 @@ Podcasts
 
 [Learning Machines 101](http://www.learningmachines101.com/)
 
+[Not So Standard Deviations](http://simplystatistics.org/2015/09/17/not-so-standard-deviations-the-podcast/)
+
 Data Science / Statistics
 -------------------------
 
@@ -86,6 +88,8 @@ http://www.danvk.org/
 http://hunch.net/
 
 http://www.randalolson.com/blog/
+
+http://www.johndcook.com/blog/r_language_for_programmers/
 
 Math
 ----
